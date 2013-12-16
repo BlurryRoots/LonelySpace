@@ -1,0 +1,2 @@
+selfbuild with mingw32
+20130921

@@ -1,0 +1,6 @@
+[submodule "libs/Lq"]
+	path = libs/Lq
+	url = https://github.com/BlurryRoots/Lq.git
+[submodule "libs/Catch"]
+	path = libs/Catch
+	url = https://github.com/philsquared/Catch.git
